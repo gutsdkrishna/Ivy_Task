@@ -31,7 +31,7 @@ This project is designed to extract names from the API endpoint `http://35.200.1
 - **Total API calls made for v3:** `26`
 
 - **Total unique names extracted:** `18631`
-- - **Total unique names extracted:** `312`
+- **Total unique names extracted:** `312`
 - **Total unique names extracted:** `390`
 
 ## Usage
